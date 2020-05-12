@@ -64,13 +64,21 @@ There are only 2 requirements to run this application:
 
 1. Simple Procedure (good but temporary) :
 
+<img src="images/Simplest_procedure.png" />
+<br>
+
+
 2. Complex Procedure (best but tempory) :
 
 3. Super Complex Procedue (best and almost permanent :
 
 ### Method which we used 
 
+Simple and permanent (due to cloud): 
+<br>
 
+<img src="images/our_procedure.png" />
+<br>
 
 ## Procedure 
 
