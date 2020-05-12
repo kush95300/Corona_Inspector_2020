@@ -69,8 +69,14 @@ There are only 2 requirements to run this application:
 
 
 2. Complex Procedure (best but tempory) :
+<img src="images/Complex.png" />
+<br>
 
 3. Super Complex Procedue (best and almost permanent :
+<img src="images/cloud_method.png" />
+<br>
+<img src="images/plan.png" />
+<br>
 
 ### Method which we used 
 
