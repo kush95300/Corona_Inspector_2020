@@ -85,7 +85,7 @@ There are only 2 requirements to run this application:
     <dd>- for modal integration we use flask and make html pages to make form to get data and then by using APIs and request integrate modal and html pages using flask.</dd>
     
    <dt>Modal host </dt>
-    <dd>- we host modal over cloud by pythonanywhwew.com services for permanent and free setup. </dd>
+    <dd>- we host modal over cloud by pythonanywhere.com services for permanent and free setup. </dd>
   </dl>
 
 ## NOTE: This app is a prototype and available only for  3 months.
