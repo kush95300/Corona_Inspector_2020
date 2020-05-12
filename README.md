@@ -9,10 +9,17 @@ There are only 2 requirements to run this application:
 
 ## Menu Description:
 
-About Corona Instructor 2020 Mobile app :  (Detailed information about application is provided in Detail.md file)
+### About Corona Instructor 2020 Mobile app :  (Detailed information about application is provided in Detail.md file)
 
-Starting Splash Screen of Application :
+<h3> Starting Splash Screen of Application :</h3>
 
-        
+<b> Starting Splash Screen            :       </b><img src="images/Splash-Screen1.jpeg" width=400 align="center"/>
+<p><b> Starting Splash Screen of App    :       </b><img src="images/Splash-screen2.jpeg" width=400 align="center"/></p>
+
+<h3> Menu of this application shown below :</h3>
+
+<b> Main Menu of App            :   </b><img src="images/Menu_1.jpeg" width=400 align="center"/>
+<p><b> Clicked Main Menu of App      :            </b><img src="images/Menu_2.jpeg" width=400 align="center"/></p>
+
 
 
