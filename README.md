@@ -13,13 +13,20 @@ There are only 2 requirements to run this application:
 
 <h3> Starting Splash Screen of Application :</h3>
 
-<b> Starting Splash Screen            :       </b><img src="images/Splash-Screen1.jpeg" width=400 align="center"/>
+<b> Starting Splash Screen of App           :       </b><img src="images/Splash-Screen1.jpeg" width=400 align="center"/>
 <p><b> Starting Splash Screen of App    :       </b><img src="images/Splash-screen2.jpeg" width=400 align="center"/></p>
 
 <h3> Menu of this application shown below :</h3>
 
+<div>
 <b> Main Menu of App            :   </b><img src="images/Menu_1.jpeg" width=400 align="center"/>
 <p><b> Clicked Main Menu of App      :            </b><img src="images/Menu_2.jpeg" width=400 align="center"/></p>
+
+
+1.	Corona test- By clicking on corona test the user will redirect to the site where there is a form which is required to fill by user. If some of the symptoms filled by user than by clicking on submit the user will redirect to the second page which is created using advanced model for better prediction. Then user will fill the second form and hit submit button than model will predict whether it is COVID positive or not.
+2.	Corona Image- where you can search for Corona related images.
+3.	Corona Other Information- by clicking on this option the user will redirect to the ministry of health and family welfare site for checking COVID related updates.
+</div>
 
 
 
