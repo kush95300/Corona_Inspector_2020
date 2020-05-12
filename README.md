@@ -4,7 +4,6 @@ Corona Inspector is an android application which is used to detect whether a per
 ## Requirements 
 
 There are only 2 requirements to run this application:
-
   1.	There should be android device.
   2.	Android device should have internet connectivity.
 
