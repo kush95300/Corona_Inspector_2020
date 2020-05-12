@@ -40,14 +40,14 @@ There are only 2 requirements to run this application:
     <dt>Corona Information and Tips </dt>
     <dd>- by clicking on this option the user will redirect to the ministry of health and family welfare site for checking COVID related updates. This also contain tips, song and worldinfo site also for more corona updates.</dd>
     
-    <dt>Lockdown @21 </dt>
-    <dd>- by clicking on this option the user will redirect to the site lockdown@21 which is a blog site of us. This  contain post related to corona and lockdown.</dd>
+   <dt>Lockdown @21 </dt>
+   <dd>- by clicking on this option the user will redirect to the site lockdown@21 which is a blog site of us. This  contain post related to corona and lockdown.</dd>
     
-    <dt> About Us </dt>
-    <dd>- This contain basic information about application.</dd>
+   <dt> About Us </dt>
+   <dd>- This contain basic information about application.</dd>
     
-    <dt> Exit </dt>
-    <dd>- to exit out of the application.</dd>
+   <dt> Exit </dt>
+   <dd>- to exit out of the application.</dd>
 </dl>
 
 </div>
@@ -76,17 +76,17 @@ There are only 2 requirements to run this application:
 
 <dl>
     <dt>Modal Train </dt>
-    <dd>- We trained modal using binary classification  model (ols method) for feature selection and using Logistic Regression Method trained model with more than 85% accuracy.</dd?
+    <dd>- We trained modal using binary classification  model (ols method) for feature selection and using Logistic Regression Method trained model with more than 85% accuracy.</dd>
     
-    <dt>App Development </dt>
+   <dt>App Development </dt>
     <dd>- 2.	We have created our android app using sketchware with very simple menu which have 3 or 4 features.</dd>
     
-    <dt>Modal Integration </dt>
+   <dt>Modal Integration </dt>
     <dd>- for modal integration we use flask and make html pages to make form to get data and then by using APIs and request integrate modal and html pages using flask.</dd>
     
-    <dt>Modal host </dt>
+   <dt>Modal host </dt>
     <dd>- we host modal over cloud by pythonanywhwew.com services for permanent and free setup. </dd>
-</dl>
+  </dl>
 
 ## NOTE: This app is a prototype and available only for  3 months.
 
