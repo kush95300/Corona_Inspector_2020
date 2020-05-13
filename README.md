@@ -104,8 +104,8 @@ Simple and permanent (due to cloud):
   
 # App can be downloaded from :
 
-    1. Github (in this repository )
-    2. Google Drive Sharablee link : https://drive.google.com/open?id=1qRM_Zxz_x-d_ofd1ytYZUZD2cf1Hez4u
+1. Github (in this repository )
+2. Google Drive Download link : https://drive.google.com/open?id=1qRM_Zxz_x-d_ofd1ytYZUZD2cf1Hez4u
 
 ## NOTE: This app is a prototype and available only for  3 months.
 
