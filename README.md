@@ -113,7 +113,7 @@ World Record Holder | TEDx Speaker | Philanthropist | Sr. Principal Consultant |
 
 <p>...............................................................................................................................</p>
 
-<img src="images/0.jpeg"  />
+<img src="images/0.jpg"  />
 
 <p><b><h2>Preeti Chandak</h2></b></p>
 <b>Chief Strategy Officer at LinuxWorld Informatics Pvt Ltd | Training Co-Ordinator (Corporate & Retail -IT) | Entrepreneur </b>
@@ -169,18 +169,18 @@ https://github.com/Jyotsana-13
 
 <p>...............................................................................................................................</p>
 
-
+<img src="https://www.instagram.com/p/BjTk3YABxhfi515aoJkt1zTcGzTjJWrMep1Kh00/" width=250 >
 
 <p><b><h2>Yash Gupta </h2></b></p>
 
 Gmail:
-
+yash22552@gmail.com
 
 LinkedIn: 
-
+https://www.linkedin.com/in/yash-gupta-a940b31a6/
 
 Github:
-
+https://github.com/yash225522
 
 <p>...............................................................................................................................</p>
 
