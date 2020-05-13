@@ -104,7 +104,14 @@ Simple and permanent (due to cloud):
 
 ## NOTE: This app is a prototype and available only for  3 months.
 
+# Made under guidance of Vimal Daga Sir and Special Thanks to :
 
+
+
+
+# Teammates :-
+
+# Other Helper (Secial Thanks) :
 
 
 
