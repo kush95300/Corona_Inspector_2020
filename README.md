@@ -113,7 +113,7 @@ World Record Holder | TEDx Speaker | Philanthropist | Sr. Principal Consultant |
 
 <p>...............................................................................................................................</p>
 
-
+<img src="images/0.jpeg"  />
 
 <p><b><h2>Preeti Chandak</h2></b></p>
 <b>Chief Strategy Officer at LinuxWorld Informatics Pvt Ltd | Training Co-Ordinator (Corporate & Retail -IT) | Entrepreneur </b>
@@ -128,11 +128,29 @@ World Record Holder | TEDx Speaker | Philanthropist | Sr. Principal Consultant |
 
 <p><b><h2>Kaushal Soni</h2></b></p>
 
+EMAIL: 
+kaushal95300@gmail.com
+
+LinkedIn: 
+https://www.linkedin.com/in/kaushal-soni-988650146/
+
+Github: 
+http://github.com/kush95300
+
 <p>...............................................................................................................................</p>
 
 <img src="images/Mangal.jpeg" width="250" />
 
 <p><b><h2>Akhil Mangal</h2></b></p>
+
+EMAIL:
+mangalakhil524@gmail.com
+
+LinkedIn :
+https://www.linkedin.com/in/akhïł-måñgâľ-85082a193
+
+Github :
+https://github.com/mangalakhil524
 
 <p>...............................................................................................................................</p>
 
@@ -140,25 +158,57 @@ World Record Holder | TEDx Speaker | Philanthropist | Sr. Principal Consultant |
 
 <p><b><h2>Jyotsana Chanwani</h2></b></p>
 
+EMAIL: 
+jyotsana13chandwani@gmail.com
+
+LinkedIn: 
+https://www.linkedin.com/in/jyotsana-chandwani-2032921a1
+
+Github: 
+https://github.com/Jyotsana-13
+
 <p>...............................................................................................................................</p>
 
 
 
 <p><b><h2>Yash Gupta </h2></b></p>
 
+Gmail:
+
+
+LinkedIn: 
+
+
+Github:
+
+
 <p>...............................................................................................................................</p>
 
 # Other Helper (Secial Thanks) :
 
+<img src="images/pawan.jpeg" width="250" />
 
 <p><b><h2>Pawan Kalwania</h2></b></p>
+
+EMAIL: 
+pawankalwaniya2000@gmail.com
+
+LinkedIn: 
+https://www.linkedin.com/in/pawan-kalwaniya-372a221a9
 
 <p>...............................................................................................................................</p>
 
 <img src="images/Yogesh.jpeg" width="250" />
 
 <p><b><h2>Yogesh Sharma</h2></b></p>
-    
+EMAIL: 
+yogeshsharma303706@gmail.com
+
+LinkedIn: 
+https://www.linkedin.com/in/yogesh-sharma-9182911a1/
+
+Github: 
+http://github.com/Yogeshsharmao2
 
 
 <p>...............................................................................................................................</p>
