@@ -101,8 +101,15 @@ Simple and permanent (due to cloud):
    <dt>Modal host </dt>
     <dd>- we host modal over cloud by pythonanywhere.com services for permanent and free setup. </dd>
   </dl>
+  
+# App can be downloaded from :
+
+    1. Github (in this repository )
+    2. Google Drive Sharablee link : https://drive.google.com/open?id=1qRM_Zxz_x-d_ofd1ytYZUZD2cf1Hez4u
 
 ## NOTE: This app is a prototype and available only for  3 months.
+
+## Note: If any error found you can also visit our webpages : http://coronainspector2020.pythonanywhere.com
 
 # Made under guidance of Vimal Daga Sir and Special Thanks to :
 
