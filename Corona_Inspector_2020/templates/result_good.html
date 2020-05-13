@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Result</title> 
+		<style>
+			body 
+				{
+				background-image: url("{{ url_for('static', filename='image/image.jpg') }}");
+				background-attachment:fixed;
+				background-repeat:no-repeat;
+				background-position:center;
+				background-origin:content-box;
+				}
+			#main
+				{
+				margin:auto;
+				overflow:scroll;
+				max-height:700px;
+				max-width:700px;
+				}
+			div
+				{
+				background-position:center;
+				font-family:"Times New Roman";
+				font-size:30px;
+				color:black;
+				text-align:center;
+				background-image: url("{{ url_for('static', filename='image/image1.jpg') }}");
+				width:500px;
+				padding:20px 50px 20px 50px;
+				border:10px solid black;
+				margin:10px 200px 10px 320px;
+				}
+			span
+				{
+				color:black;
+				}
+		</style>             
+</head>
+    <body>
+	<div id="main">
+		<ul>
+			<a href="{{ url_for ('back') }}">HOME</a>
+		</ul>
+			<p><b><mark>CORONA INSPECTOR 2020</mark></b></p>
+			<p><b> You are Safe. </b></p>
+			<p>Click on Home for another test.</p>
+			<p><b>Thanks for visiting. Stay Safe, Stay at Home.</b></p>
+		<br>
+		<p>This is Corona checking Website.</p>
+	</div>
+	</body>
+</html>

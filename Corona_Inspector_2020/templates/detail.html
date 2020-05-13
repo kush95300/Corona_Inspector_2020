@@ -1,0 +1,117 @@
+<html>
+<head>
+<title>More details</title> 
+		<style>
+			body 
+				{
+				background-image: url("{{ url_for('static', filename='image/image.jpg') }}");
+				background-attachment:fixed;
+				background-repeat:no-repeat;
+				background-position:center;
+				background-origin:content-box;
+				}
+			#main
+				{
+				margin:auto;
+				overflow:scroll;
+				max-height:700px;
+				max-width:700px;
+				}
+			div
+				{
+				background-position:center;
+				font-family:"Times New Roman";
+				font-size:30px;
+				color:black;
+				text-align:center;
+				background-image: url("{{ url_for('static', filename='image/image1.jpg') }}");
+				width:500px;
+				padding:20px 50px 20px 50px;
+				border:10px solid black;
+				margin:10px 200px 10px 320px;
+				}
+			span
+				{
+				color:black;
+				}
+		</style>             
+ </head>
+    <body>
+	<div id="main">
+		<form action="{{ url_for('advance_predict')}}" method="POST">
+		<ul>
+			<a href="{{ url_for('back') }}">HOME</a>
+		</ul>
+			<p><b><mark>CORONA INSPECTOR 2020</mark></b></p>
+			<p> You are vulnerable in basic test. So please provide below mention information also.</p>
+				<table style="background-color:white;" width="510px" height="100px" border="5" align="center">
+					<tr>
+						<td colspan="1" align="left"><span>Do You Have Sour Throat:--</span></td>
+						<td>
+						<span><input name="throat" value="1" type="radio" class="checkbox" required></span><span> Yes</span>
+						<span><input name="throat" value="0" type="radio" class="checkbox" required></span><span> No</span>
+						</td>
+					</tr>
+					
+					<tr>
+						<td colspan="1" align="left"><span>Do You feel drowniness (Sleepliness):--</span></td>
+						<td>
+						<span><input name="drownism" value="1" type="radio" class="checkbox" required></span><span> Yes</span>
+						<span><input name="drownism" value="0" type="radio" class="checkbox" required></span><span> No</span>
+						</td>
+					</tr>
+				</table>
+					<p>Do You Have Followings Disease.</p>
+				<table style="background-color:white;" width="510px" height="100px" border="5" align="center">
+					<tr>
+						<td colspan="1" align="left"><li><span>Diabetes:--</span></li></td>
+						<td>
+						<span><input name="diabetes" value="1" type="radio" class="checkbox" required></span><span> Yes</span>
+						<span><input name="diabetes" value="0" type="radio" class="checkbox" required></span><span> No</span>
+						</td>
+					</tr>
+						<tr>
+						<td colspan="1" align="left"><li><span>Heart Disease:--</span></li></td>
+						<td>
+						<span><input name="heart" value="1" type="radio" class="checkbox" required></span><span> Yes</span>
+						<span><input name="heart" value="0"type="radio" class="checkbox" required></span><span> No</span>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="1" align="left"><li><span>Lungs Disease:--</span></li></td>
+						<td>
+						<span><input name="lungs" value="1" type="radio" class="checkbox" required></span><span> Yes</span>
+						<span><input name="lungs" value="0" type="radio" class="checkbox" required></span><span> No</span>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="1" align="left"><li><span>Reduse Imunity:--</span></li></td>
+						<td>
+						<span><input name="imunity" value="1" type="radio" class="checkbox" required></span><span> Yes</span>
+						<span><input name="imunity" value="0" type="radio" class="checkbox" required></span><span> No</span>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="1" align="left"><li><span>High Blood Pressure :--</span></li></td>
+						<td>
+						<span><input name="pressure" value="1" type="radio" class="checkbox" required></span><span> Yes</span>
+						<span><input name="pressure" value="0" type="radio" class="checkbox" required></span><span> No</span>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="1" align="left"><li><span>Kidney Disease:--</span></li></td>
+						<td>
+						<span><input name="kidney" value="1" type="radio" class="checkbox" required></span><span> Yes</span>
+						<span><input name="kidney" value="0" type="radio" class="checkbox" required></span><span> No</span>
+						</td>
+					</tr>
+				</table>
+					<br>
+					<tr>
+						<td colspan='2' style="text-align:center;" ><span><input name="submit" type="submit" class="button"></td>
+					</tr>
+		<br>
+		<p>This is Corona checking Website.</p>
+	</div>
+	</body>
+</html>
