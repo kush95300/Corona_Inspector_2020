@@ -8,8 +8,7 @@ Corona Inspector is an android application which is used to detect whether a per
 <br>
 3.	<p><b> Click to the install         :      </b><img src="images/Install.jpeg" width=400 align="center"/></p>
 <br>
-4.  <b> click on the Install Anyway     :     </b><img src="images/.jpeg" width=400 align="center"/>
-
+4. <p><b> Click to the Install Anyway : </b><img src=="https://github.com/kush95300/Corona_Inspector_2020/blob/master/images/Install%20Anyway.png" width=400 align="center"/></p>
 
 # Menu Description:
 
