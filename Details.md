@@ -11,18 +11,23 @@ Corona Inspector is an android application which is used to detect whether a per
 <br>
 <p>4. <b>Click on the Install Anyway : </b><img src="images/Install_Anyway.png" width=400 align="center"/></p>
 <br>
-<p>5. <b>Click on the 
+<p>5. <b>Click on the Dont_send : </b><img src="images/Dont_send.png" width=400 align="center"/></p>
+<br>
+<p>6. <b>Click on the Open :  </b><img src="images/Installed.jpeg" width=400 align="center"/></p>
+<br>
+<p>7. <b>Click on the Menu :  </b><img src="images/menu.jpeg" width=400 align="center"/></p>
+<br>
+
+
+
 # Menu Description:
-
-## About Corona Instructor 2020 Mobile app :  (Detailed information about application is provided in Detail.md file)
-
-### Starting Splash Screen of Application :
 
 
 <b> Starting Splash Screen of App           :       </b><img src="images/Splash-Screen1.jpeg" width=400 align="center"/>
 <br>
-<p><b> Starting Splash Screen of App    :       </b><img src="images/Splash-screen2.jpeg" width=400 align="center"/></p>
+<p><b> Starting Splash Screen of App    :       </b><img src="images/Splash-screen2.png" width=400 align="center"/></p>
 <br>
+
 
 ### Menu of this application shown below :
 
@@ -36,14 +41,29 @@ Corona Inspector is an android application which is used to detect whether a per
 ### Main menu brief discription :
 <dl>
   <dt>Corona test - </dt>
-  <dd> By clicking on corona test the user will redirect to the site where there is a symptom checker form which is required to fill by user. If on first page modal predict user vulnerable than  the user will be  redirected to the second page which is created using advanced model for better prediction. Then user will fill the second form and hit submit button than model will predict whether it is COVID positive or not.</dd>
+  <dd> By clicking on corona test the user will redirect to the site where there is a symptom checker form which is required to fill by user.
+    <br><br> 
+  </b><img src="images/Form.jpeg" width=400 align="center"/>
+  <br><br> 
+  If on first page modal predict user vulnerable than  the user will be  redirected to the second page which is created using advanced model for better prediction.
+  <br> <br>
+  </b><img src="images/Form2.jpeg" width=400 align="center"/>
+  <br><br> 
+  Then user will fill the second form and hit submit button than model will predict whether it is COVID positive or not.</dd> 
+  <br><br>
+  </b><img src="images/homePage.jpeg" width=400 align="center"/>
   <dt>Corona Image</dt>
   <dd>- where you can search for Corona related images. This is corona images on google. </dd>
+  <p></b><img src="images/Corona-Images.jpeg" width=400 align="center"/></p>
     <dt>Corona Information and Tips </dt>
     <dd>- by clicking on this option the user will redirect to the ministry of health and family welfare site for checking COVID related updates. This also contain tips, song and worldinfo site also for more corona updates.</dd>
-    
+    <br>
+    <p></b><img src="images/other_info.jpeg" width=400 align="center"/></p>
+    <br>
    <dt>Lockdown @21 </dt>
    <dd>- by clicking on this option the user will redirect to the site lockdown@21 which is a blog site of us. This  contain post related to corona and lockdown.</dd>
+   <br>
+   </b><img src="images/blogs.jpeg" width=400 align="center"/></p>
     
    <dt> About Us </dt>
    <dd>- This contain basic information about application.</dd>
