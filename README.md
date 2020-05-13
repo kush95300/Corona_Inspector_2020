@@ -176,7 +176,7 @@ https://github.com/Jyotsana-13
 
 <p>...............................................................................................................................</p>
 
-<img src="https://www.instagram.com/p/BjTk3YABxhfi515aoJkt1zTcGzTjJWrMep1Kh00/" width=250 >
+<img src="images/yash.jpeg" width="250" />
 
 <p><b><h2>Yash Gupta </h2></b></p>
 
