@@ -106,14 +106,62 @@ Simple and permanent (due to cloud):
 
 # Made under guidance of Vimal Daga Sir and Special Thanks to :
 
+<img src="images/Vimalsir.jpeg" />
+
+<p><b><h2>Vimal Daga</h2></b></p><b>
+World Record Holder | TEDx Speaker | Philanthropist | Sr. Principal Consultant | Entrepreneur | Founder LW Informatics</b>
+
+<p>...............................................................................................................................</p>
 
 
+
+<p><b><h2>Preeti Chandak</h2></b></p>
+<b>Chief Strategy Officer at LinuxWorld Informatics Pvt Ltd | Training Co-Ordinator (Corporate & Retail -IT) | Entrepreneur </b>
+    
+<p>...............................................................................................................................</p>
+
+<img src="images/Peetimam.jpeg"  />
 
 # Teammates :-
+
+<img src="images/me.jpg" width="250" />
+
+<p><b><h2>Kaushal Soni</h2></b></p>
+
+<p>...............................................................................................................................</p>
+
+<img src="images/Mangal.jpeg" width="250" />
+
+<p><b><h2>Akhil Mangal</h2></b></p>
+
+<p>...............................................................................................................................</p>
+
+<img src="images/Jyotsana.jpeg" width="250" />
+
+<p><b><h2>Jyotsana Chanwani</h2></b></p>
+
+<p>...............................................................................................................................</p>
+
+
+
+<p><b><h2>Yash Gupta </h2></b></p>
+
+<p>...............................................................................................................................</p>
 
 # Other Helper (Secial Thanks) :
 
 
+<p><b><h2>Pawan Kalwania</h2></b></p>
+
+<p>...............................................................................................................................</p>
+
+<img src="images/Yogesh.jpeg" width="250" />
+
+<p><b><h2>Yogesh Sharma</h2></b></p>
+    
 
 
+<p>...............................................................................................................................</p>
 
+
+# IIEC RISE   #Right_learning  #Corona_Inspector_2020 
