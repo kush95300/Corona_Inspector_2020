@@ -2,13 +2,35 @@
 ## Introduction
 
 Corona Inspector is an android application which is used to detect whether a person is having Corona or not with more than 85 % accuracy. This application is useful for detecting corona positive patients. It is based on Machine Learning model with Python-3. It has two model: model -1 is basic model and model-2 is advanced model, which is select own by application as per patient symptoms. Every one can use this application whether it is belongs to technical background or not. It has also added government and other corona information site for COVID latest details.
+
 ## Instructions to Install COVID Inspector:
-1.	Click on the apk file
-2.	<b> Click to the install option          :       </b><img src="images/Open.jpeg" width=400 align="center"/>
+
+1. Click on the apk file.
+
+
+2. <b>Click on the open   :    </b><img src="images/Open.jpeg" width=400 align="center"/>
 <br>
-3.	<p><b> Click to the install         :      </b><img src="images/Install.jpeg" width=400 align="center"/></p>
+
+
+<p>3. <b>Click on the the Install :  </b><img src="images/Install.jpeg" width=400 align="center"/></p>
 <br>
-4. <p><b> Click to the Install Anyway : </b><img src=="https://github.com/kush95300/Corona_Inspector_2020/blob/master/images/Install%20Anyway.png" width=400 align="center"/></p>
+
+
+<p>4. <b>Click on the Install Anyway : </b><img src="images/Install_Anyway.png" width=400 align="center"/></p>
+<br>
+
+
+<p>5. <b>Click on the Dont_send : </b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/Dont_send.png" width=400 align="center"/></p>
+<br>
+
+
+<p>6. <b>Click on the Open :  </b><img src="images/Installed.jpeg" width=400 align="center"/></p>
+<br>
+
+
+<p>7. <b>Click on the Menu :  </b><img src="images/menu.jpeg" width=400 align="center"/></p>
+<br>
+
 
 # Menu Description:
 
