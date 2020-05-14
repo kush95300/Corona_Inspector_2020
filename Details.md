@@ -74,6 +74,85 @@ Corona Inspector is an android application which is used to detect whether a per
 
 </div>
 
+# Detailed :
+
+<dl>
+  <dt>Corona test - </dt>
+  <dd> By clicking on corona test the user will redirect to the site where there is a symptom checker form which is required to fill by user.
+    <br><br> 
+  </b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/Form.jpeg" width=400 align="center"/>
+  <br><br> 
+  If on first page modal predict user vulnerable than  the user will be  redirected to the second page which is created using advanced model for better prediction.
+  <br> <br>
+  </b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/Form2.jpeg" width=400 align="center"/>
+ 
+  <br><br> 
+  Then user will fill the second form and hit submit button than model will predict whether it is COVID positive or not.</dd> 
+  <br><br>
+  </b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/homePage.jpeg" width=400 align="center"/>
+   <br>
+   ## About buttons on the page:-
+ <p> <dt>Back to app menu</dt>
+  <dd>Click on the button "BACK TO APP MENU" for the main menu </dd>
+  
+   <dt>Back to web menu</dt>
+  <dd>Click on the button "BACK TO WEB MENU" for the web menu </dd>
+  
+   <dt>Zoom in</dt>
+  <dd>Click on the button "ZOOM IN" to zoom-in your form </dd>
+  
+   <dt>Zoom out</dt>
+  <dd>Click on the button "ZOOM OUT" to zoom-out your form </dd>
+  
+   <dt>Refresh</dt>
+  <dd>Click on the button "REFRESH" to refresh your form </dd>
+ </p> <br>
+  
+  <dt>Corona Image</dt>
+  <dd>- where you can search for Corona related images. This is corona images on google. </dd>
+  <p></b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/Corona-Images.jpeg" width=400 align="center"/></p>
+    <dt>Corona Information and Tips </dt>
+    <dd>- by clicking on this option the user will redirect to the ministry of health and family welfare site for checking COVID related updates. This also contain tips, song and worldinfo site also for more corona updates.</dd>
+    <br>
+    <p></b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/other_info.jpeg" width=400 align="center"/></p>
+    <br>
+   <dt>Lockdown @21 </dt>
+   <dd>- by clicking on this option the user will redirect to the site lockdown@21 which is a blog site of us. This  contain post related to corona and lockdown.</dd>
+   <br>
+   </b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/blogs.jpeg" width=400 align="center"/></p>
+    
+   <dt> About Us </dt>
+   <dd>- This contain basic information about project.</dd>
+   <br>
+   <p></b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/about_us.jpeg" width=400 align="center"/></p>
+   <br>
+   <dt> About App </dt>
+   <dd>- This contain basic information about application.</dd>
+   <br>
+   <p></b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/about_app.jpeg" width=400 align="center"/></p>
+   <br>
+   <dt>Fir Muskurayega India </dt>
+   <dd>- This is the famous song to encourage everyone to fight against corona.</dd>
+   <br>
+   <p></b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/fir_muskurayega_india.jpeg" width=400 align="center"/></p>
+   <br>
+    <dt> Corona Prevention Tips </dt>
+   <dd>- Advisory tips provided by the Govt. of India to prevent or stay away from Corona.</dd>
+   <br>
+   <p></b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/ayush.jpeg" width=400 align="center"/></p>
+   <br>
+    <dt> Worldometer </dt>
+   <dd>- Worldometer is give the proper updates about the coronavirus cases, recoveries and deaths from all over the world .</dd>
+   <br>
+   <p></b><img src="https://github.com/yash225522/Corona_Inspector_2020/blob/master/images/tips.jpeg" width=400 align="center"/></p>
+   <br>
+   <dt> Exit </dt>
+   <dd>- to exit out of the application.</dd>
+</dl>
+
+</div>
+
+
 ## Brief Description of Model :
 
 1. By using csv file of COVID Symptoms we trained a binary classification  model using Logistic Regression Method with more than 85% accuracy .
