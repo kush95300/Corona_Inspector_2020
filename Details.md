@@ -85,6 +85,16 @@ Corona Inspector is an android application which is used to detect whether a per
    </b><img src="images/blogs.jpeg" width=400 align="center"/></p>
     
    <dt> About Us </dt>
+   <dd>- This contain basic information about project.</dd>
+   <br>
+   </b><img src="images/about_us.jpeg" width=400 align="center"/></p>
+   <br>
+   <dt> About App </dt>
+   <dd>- This contain basic information about application.</dd>
+   <br>
+   </b><img src="images/about_app.jpeg" width=400 align="center"/></p>
+   <br>
+   <dt> About Us </dt>
    <dd>- This contain basic information about application.</dd>
    <br>
    </b><img src="images/about_us.jpeg" width=400 align="center"/></p>
