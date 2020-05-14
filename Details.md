@@ -25,7 +25,7 @@ Corona Inspector is an android application which is used to detect whether a per
 
 <b> Starting Splash Screen of App           :       </b><img src="images/Splash-Screen1.jpeg" width=400 align="center"/>
 <br>
-<p><b> Starting Splash Screen of App    :       </b><img src="images/Splash-screen2.png" width=400 align="center"/></p>
+<p><b> Starting Splash Screen of App    :       </b><img src="images/Splash-screen2.jpeg" width=400 align="center"/></p>
 <br>
 
 
