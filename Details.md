@@ -87,18 +87,28 @@ Corona Inspector is an android application which is used to detect whether a per
    <dt> About Us </dt>
    <dd>- This contain basic information about project.</dd>
    <br>
-   </b><img src="images/about_us.jpeg" width=400 align="center"/></p>
+   <p></b><img src="images/about_us.jpeg" width=400 align="center"/></p>
    <br>
    <dt> About App </dt>
    <dd>- This contain basic information about application.</dd>
    <br>
-   </b><img src="images/about_app.jpeg" width=400 align="center"/></p>
+   <p></b><img src="images/about_app.jpeg" width=400 align="center"/></p>
    <br>
-   <dt> About Us </dt>
-   <dd>- This contain basic information about application.</dd>
+   <dt>Fir Muskurayega India </dt>
+   <dd>- This is the famous song to encourage everyone to fight against corona.</dd>
    <br>
-   </b><img src="images/about_us.jpeg" width=400 align="center"/></p>
-    
+   <p></b><img src="images/fir_muskurayega_india.jpeg" width=400 align="center"/></p>
+   <br>
+    <dt> Corona Prevention Tips </dt>
+   <dd>- Advisory tips provided by the Govt. of India to prevent or stay away from Corona.</dd>
+   <br>
+   <p></b><img src="images/ayush.jpeg" width=400 align="center"/></p>
+   <br>
+    <dt> Worldometer </dt>
+   <dd>- Worldometer is give the proper updates about the coronavirus cases, recoveries and deaths from all over the world .</dd>
+   <br>
+   <p></b><img src="images/tips.jpeg" width=400 align="center"/></p>
+   <br>
    <dt> Exit </dt>
    <dd>- to exit out of the application.</dd>
 </dl>
