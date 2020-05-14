@@ -57,16 +57,16 @@ Corona Inspector is an android application which is used to detect whether a per
    ## About buttons on the page:-
  <p> <dt>Back to app menu</dt>
   <dd>Click on the button "BACK TO APP MENU" for the main menu </dd>
-  <br>
+  
    <dt>Back to web menu</dt>
   <dd>Click on the button "BACK TO WEB MENU" for the web menu </dd>
-  <br>
+  
    <dt>Zoom in</dt>
   <dd>Click on the button "ZOOM IN" to zoom-in your form </dd>
-  <br>
+  
    <dt>Zoom out</dt>
   <dd>Click on the button "ZOOM OUT" to zoom-out your form </dd>
-  <br>
+  
    <dt>Refresh</dt>
   <dd>Click on the button "REFRESH" to refresh your form </dd>
  </p> <br>
