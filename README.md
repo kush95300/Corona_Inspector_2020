@@ -93,7 +93,7 @@ Simple and permanent (due to cloud):
     <dd>- We trained modal using binary classification  model (ols method) for feature selection and using Logistic Regression Method trained model with more than 85% accuracy.</dd>
     
    <dt>App Development </dt>
-    <dd>- 2.	We have created our android app using sketchware with very simple menu which have 3 or 4 features.</dd>
+    <dd>- 	We have created our android app using sketchware with very simple menu which have 3 or 4 features.</dd>
     
    <dt>Modal Integration </dt>
     <dd>- for modal integration we use flask and make html pages to make form to get data and then by using APIs and request integrate modal and html pages using flask.</dd>
