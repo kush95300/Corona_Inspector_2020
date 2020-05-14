@@ -48,10 +48,28 @@ Corona Inspector is an android application which is used to detect whether a per
   If on first page modal predict user vulnerable than  the user will be  redirected to the second page which is created using advanced model for better prediction.
   <br> <br>
   </b><img src="images/Form2.jpeg" width=400 align="center"/>
+ 
   <br><br> 
   Then user will fill the second form and hit submit button than model will predict whether it is COVID positive or not.</dd> 
   <br><br>
   </b><img src="images/homePage.jpeg" width=400 align="center"/>
+   <br>
+ <p> <dt>Back to app menu</dt>
+  <dd>Click on the button "BACK TO APP MENU" for the main menu </dd>
+  <br>
+   <dt>Back to web menu</dt>
+  <dd>Click on the button "BACK TO WEB MENU" for the web menu </dd>
+  <br>
+   <dt>Zoom in</dt>
+  <dd>Click on the button "ZOOM IN" for the zoom in your form </dd>
+  <br>
+   <dt>Zoom out</dt>
+  <dd>Click on the button "ZOOM OUT" for the zoom out your form </dd>
+  <br>
+   <dt>Refresh</dt>
+  <dd>Click on the button "REFRESH" to refresh your form </dd>
+ </p> <br>
+  
   <dt>Corona Image</dt>
   <dd>- where you can search for Corona related images. This is corona images on google. </dd>
   <p></b><img src="images/Corona-Images.jpeg" width=400 align="center"/></p>
