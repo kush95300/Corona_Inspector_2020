@@ -6,9 +6,10 @@ Corona Inspector is an android application which is used to detect whether a per
 
 # Requirements 
 
-There are only 2 requirements to run this application:
-    1.	There should be android device.
-    2.	Android device should have internet connectivity.
+There are only 2 requirements to run this application:</br>
+
+    > 1.	There should be android device.
+    > 2.	Android device should have internet connectivity.
 
 # Menu Description:
 
@@ -191,7 +192,7 @@ https://github.com/yash225522
 
 <p>...............................................................................................................................</p>
 
-# Other Helper (Secial Thanks) :
+# Other Helper (Special Thanks) :
 
 <img src="images/pawan.jpeg" width="250" />
 
