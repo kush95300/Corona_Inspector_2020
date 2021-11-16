@@ -223,3 +223,11 @@ http://github.com/Yogeshsharmao2
 
 
 # IIEC RISE   #Right_learning  #Corona_Inspector_2020 
+
+# Licence & Copyright
+
+ © Kaushal Soni
+ 
+ Licence Under the [MIT Licence](LICENSE)
+
+
